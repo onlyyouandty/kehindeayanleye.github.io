@@ -44,7 +44,9 @@ nav > a {
 	z-index: 10;
 }
 .bar {
+	background-color: #ff5f8c;
 	border: 48px solid #ff5f8c;
 	position: relative;
 	top: 40px;
+	min-height: 30px;
 }
